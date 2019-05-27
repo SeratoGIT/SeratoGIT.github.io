@@ -1,0 +1,11 @@
+body {
+	background-color: dodgerblue;
+	padding: 10 20;
+	font-family:Courier;
+	font: 20px Courier, sans-serif;
+	text-align: center;
+}
+
+h1 {
+	text-align: center;
+	font: bold 40px Verdana, sans-serif;
